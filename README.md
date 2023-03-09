@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Gitzak/third_project_todo_list/blob/main/screenshot.png)
 
 # third_project_todo_list
 
